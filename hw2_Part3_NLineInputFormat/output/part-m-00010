@@ -1,0 +1,800 @@
+1434508	[Wed Sep 19 13:55:48 2012] [error] [client 203.91.121.68] File does not exist: C:/www/mysqlmanager
+1434607	[Wed Sep 19 13:55:49 2012] [error] [client 203.91.121.68] File does not exist: C:/www/p
+1434695	[Wed Sep 19 13:55:49 2012] [error] [client 203.91.121.68] File does not exist: C:/www/PMA2005
+1434789	[Wed Sep 19 13:55:49 2012] [error] [client 203.91.121.68] File does not exist: C:/www/pma2005
+1434883	[Wed Sep 19 13:55:50 2012] [error] [client 203.91.121.68] File does not exist: C:/www/phpmanager
+1434980	[Wed Sep 19 13:55:50 2012] [error] [client 203.91.121.68] File does not exist: C:/www/php-myadmin
+1435078	[Wed Sep 19 13:55:51 2012] [error] [client 203.91.121.68] File does not exist: C:/www/phpmy-admin
+1435176	[Wed Sep 19 13:55:51 2012] [error] [client 203.91.121.68] File does not exist: C:/www/webadmin
+1435271	[Wed Sep 19 13:55:52 2012] [error] [client 203.91.121.68] File does not exist: C:/www/sqlweb
+1435364	[Wed Sep 19 13:55:52 2012] [error] [client 203.91.121.68] File does not exist: C:/www/websql
+1435457	[Wed Sep 19 13:55:53 2012] [error] [client 203.91.121.68] File does not exist: C:/www/webdb
+1435549	[Wed Sep 19 13:55:53 2012] [error] [client 203.91.121.68] File does not exist: C:/www/mysqladmin
+1435646	[Wed Sep 19 13:55:54 2012] [error] [client 203.91.121.68] File does not exist: C:/www/mysql-admin
+1435744	[Wed Sep 19 18:57:55 2012] [error] [client 219.138.64.244] File does not exist: C:/www/manager
+1435839	[Thu Sep 20 03:24:01 2012] [error] [client 98.143.169.213] File does not exist: C:/www/recordings
+1435937	[Thu Sep 20 03:24:04 2012] [error] [client 98.143.169.213] File does not exist: C:/www/recordings
+1436035	[Thu Sep 20 03:24:04 2012] [error] [client 98.143.169.213] File does not exist: C:/www/recordings
+1436133	[Thu Sep 20 11:13:31 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1436307	[Thu Sep 20 11:13:31 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1436406	[Thu Sep 20 11:13:31 2012] [notice] Server built: Sep  9 2011 10:26:10
+1436477	[Thu Sep 20 11:13:31 2012] [notice] Parent: Created child process 1220
+1436548	[Thu Sep 20 11:13:31 2012] [notice] Child 1220: Child process is running
+1436621	[Thu Sep 20 11:13:31 2012] [notice] Child 1220: Acquired the start mutex.
+1436695	[Thu Sep 20 11:13:31 2012] [notice] Child 1220: Starting 64 worker threads.
+1436771	[Thu Sep 20 11:13:31 2012] [notice] Child 1220: Starting thread to listen on port 80.
+1436857	[Thu Sep 20 11:30:39 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1437031	[Thu Sep 20 11:30:39 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1437130	[Thu Sep 20 11:30:39 2012] [notice] Server built: Sep  9 2011 10:26:10
+1437201	[Thu Sep 20 11:30:39 2012] [notice] Parent: Created child process 1228
+1437272	[Thu Sep 20 11:30:40 2012] [notice] Child 1228: Child process is running
+1437345	[Thu Sep 20 11:30:40 2012] [notice] Child 1228: Acquired the start mutex.
+1437419	[Thu Sep 20 11:30:40 2012] [notice] Child 1228: Starting 64 worker threads.
+1437495	[Thu Sep 20 11:30:40 2012] [notice] Child 1228: Starting thread to listen on port 80.
+1437581	[Thu Sep 20 11:43:30 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1437755	[Thu Sep 20 11:43:30 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1437854	[Thu Sep 20 11:43:30 2012] [notice] Server built: Sep  9 2011 10:26:10
+1437925	[Thu Sep 20 11:43:30 2012] [notice] Parent: Created child process 1244
+1437996	[Thu Sep 20 11:43:30 2012] [notice] Child 1244: Child process is running
+1438069	[Thu Sep 20 11:43:31 2012] [notice] Child 1244: Acquired the start mutex.
+1438143	[Thu Sep 20 11:43:31 2012] [notice] Child 1244: Starting 64 worker threads.
+1438219	[Thu Sep 20 11:43:31 2012] [notice] Child 1244: Starting thread to listen on port 80.
+1438305	[Thu Sep 20 12:32:04 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1438479	[Thu Sep 20 12:32:04 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1438578	[Thu Sep 20 12:32:04 2012] [notice] Server built: Sep  9 2011 10:26:10
+1438649	[Thu Sep 20 12:32:04 2012] [notice] Parent: Created child process 1264
+1438720	[Thu Sep 20 12:32:04 2012] [notice] Child 1264: Child process is running
+1438793	[Thu Sep 20 12:32:04 2012] [notice] Child 1264: Acquired the start mutex.
+1438867	[Thu Sep 20 12:32:04 2012] [notice] Child 1264: Starting 64 worker threads.
+1438943	[Thu Sep 20 12:32:04 2012] [notice] Child 1264: Starting thread to listen on port 80.
+1439029	[Thu Sep 20 12:51:03 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1439203	[Thu Sep 20 12:51:03 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1439302	[Thu Sep 20 12:51:03 2012] [notice] Server built: Sep  9 2011 10:26:10
+1439373	[Thu Sep 20 12:51:03 2012] [notice] Parent: Created child process 1280
+1439444	[Thu Sep 20 12:51:03 2012] [notice] Child 1280: Child process is running
+1439517	[Thu Sep 20 12:51:03 2012] [notice] Child 1280: Acquired the start mutex.
+1439591	[Thu Sep 20 12:51:03 2012] [notice] Child 1280: Starting 64 worker threads.
+1439667	[Thu Sep 20 12:51:03 2012] [notice] Child 1280: Starting thread to listen on port 80.
+1439753	[Thu Sep 20 13:35:04 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1439927	[Thu Sep 20 13:35:04 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1440026	[Thu Sep 20 13:35:04 2012] [notice] Server built: Sep  9 2011 10:26:10
+1440097	[Thu Sep 20 13:35:04 2012] [notice] Parent: Created child process 1268
+1440168	[Thu Sep 20 13:35:04 2012] [notice] Child 1268: Child process is running
+1440241	[Thu Sep 20 13:35:04 2012] [notice] Child 1268: Acquired the start mutex.
+1440315	[Thu Sep 20 13:35:04 2012] [notice] Child 1268: Starting 64 worker threads.
+1440391	[Thu Sep 20 13:35:04 2012] [notice] Child 1268: Starting thread to listen on port 80.
+1440477	[Thu Sep 20 13:46:56 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1440651	[Thu Sep 20 13:46:56 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1440750	[Thu Sep 20 13:46:56 2012] [notice] Server built: Sep  9 2011 10:26:10
+1440821	[Thu Sep 20 13:46:56 2012] [notice] Parent: Created child process 1264
+1440892	[Thu Sep 20 13:46:56 2012] [notice] Child 1264: Child process is running
+1440965	[Thu Sep 20 13:46:56 2012] [notice] Child 1264: Acquired the start mutex.
+1441039	[Thu Sep 20 13:46:56 2012] [notice] Child 1264: Starting 64 worker threads.
+1441115	[Thu Sep 20 13:46:56 2012] [notice] Child 1264: Starting thread to listen on port 80.
+1441201	[Thu Sep 20 13:59:15 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1441375	[Thu Sep 20 13:59:15 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1441474	[Thu Sep 20 13:59:15 2012] [notice] Server built: Sep  9 2011 10:26:10
+1441545	[Thu Sep 20 13:59:15 2012] [notice] Parent: Created child process 1268
+1441616	[Thu Sep 20 13:59:15 2012] [notice] Child 1268: Child process is running
+1441689	[Thu Sep 20 13:59:15 2012] [notice] Child 1268: Acquired the start mutex.
+1441763	[Thu Sep 20 13:59:15 2012] [notice] Child 1268: Starting 64 worker threads.
+1441839	[Thu Sep 20 13:59:15 2012] [notice] Child 1268: Starting thread to listen on port 80.
+1441925	[Thu Sep 20 14:08:55 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1442099	[Thu Sep 20 14:08:55 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1442198	[Thu Sep 20 14:08:55 2012] [notice] Server built: Sep  9 2011 10:26:10
+1442269	[Thu Sep 20 14:08:55 2012] [notice] Parent: Created child process 1268
+1442340	[Thu Sep 20 14:08:55 2012] [notice] Child 1268: Child process is running
+1442413	[Thu Sep 20 14:08:55 2012] [notice] Child 1268: Acquired the start mutex.
+1442487	[Thu Sep 20 14:08:55 2012] [notice] Child 1268: Starting 64 worker threads.
+1442563	[Thu Sep 20 14:08:55 2012] [notice] Child 1268: Starting thread to listen on port 80.
+1442649	[Thu Sep 20 14:21:36 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1442823	[Thu Sep 20 14:21:36 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1442922	[Thu Sep 20 14:21:36 2012] [notice] Server built: Sep  9 2011 10:26:10
+1442993	[Thu Sep 20 14:21:36 2012] [notice] Parent: Created child process 1300
+1443064	[Thu Sep 20 14:21:36 2012] [notice] Child 1300: Child process is running
+1443137	[Thu Sep 20 14:21:36 2012] [notice] Child 1300: Acquired the start mutex.
+1443211	[Thu Sep 20 14:21:36 2012] [notice] Child 1300: Starting 64 worker threads.
+1443287	[Thu Sep 20 14:21:36 2012] [notice] Child 1300: Starting thread to listen on port 80.
+1443373	[Thu Sep 20 14:25:48 2012] [error] [client 129.10.91.101] File does not exist: C:/www/favicon.ico
+1443471	[Thu Sep 20 14:47:03 2012] [error] [client 129.10.65.240] File does not exist: C:/www/favicon.ico
+1443569	[Thu Sep 20 14:47:03 2012] [error] [client 129.10.65.240] File does not exist: C:/www/favicon.ico
+1443667	[Fri Sep 21 03:25:19 2012] [error] [client 77.89.70.245] File does not exist: C:/www/manager
+1443760	[Fri Sep 21 18:46:25 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1443857	[Sat Sep 22 17:03:01 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1443954	[Sat Sep 22 17:15:02 2012] [error] [client 200.105.225.43] File does not exist: C:/www/user
+1444046	[Wed Sep 26 09:45:45 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1444143	[Wed Sep 26 12:16:31 2012] [error] [client 76.119.232.247] File does not exist: C:/www/apple-touch-icon-precomposed.png
+1444263	[Wed Sep 26 12:16:31 2012] [error] [client 76.119.232.247] File does not exist: C:/www/apple-touch-icon.png
+1444371	[Wed Sep 26 12:16:31 2012] [error] [client 76.119.232.247] File does not exist: C:/www/favicon.ico
+1444470	[Fri Sep 28 02:44:50 2012] [error] [client 92.240.68.152] File does not exist: C:/www/dagboken2007
+1444569	[Sat Sep 29 18:03:21 2012] [error] [client 92.52.78.238] File does not exist: C:/www/manager
+1444662	[Sat Sep 29 19:10:39 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1444759	[Sun Sep 30 11:14:48 2012] [error] [client 74.108.144.81] File does not exist: C:/www/favicon.ico, referer: http://newton.neu.edu/yusuf/
+1444896	[Sun Sep 30 11:18:28 2012] [error] [client 74.108.144.81] File does not exist: C:/www/favicon.ico, referer: http://newton.neu.edu/yusuf/
+1445033	[Sun Sep 30 13:02:05 2012] [error] [client 200.105.225.43] File does not exist: C:/www/user
+1445125	[Sun Sep 30 18:31:58 2012] [error] [client 112.101.64.161] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1445330	[Sun Sep 30 18:31:59 2012] [error] [client 112.101.64.161] File does not exist: C:/www/phpMyAdmin
+1445428	[Sun Sep 30 18:32:00 2012] [error] [client 112.101.64.161] File does not exist: C:/www/phpmyadmin
+1445526	[Sun Sep 30 18:32:00 2012] [error] [client 112.101.64.161] File does not exist: C:/www/pma
+1445617	[Sun Sep 30 18:32:01 2012] [error] [client 112.101.64.161] File does not exist: C:/www/myadmin
+1445712	[Sun Sep 30 18:32:02 2012] [error] [client 112.101.64.161] File does not exist: C:/www/MyAdmin
+1445807	[Mon Oct 01 05:46:54 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1445904	[Mon Oct 01 08:58:59 2012] [warn] pid file C:/Program Files (x86)/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+1446078	[Mon Oct 01 08:58:59 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+1446177	[Mon Oct 01 08:58:59 2012] [notice] Server built: Sep  9 2011 10:26:10
+1446248	[Mon Oct 01 08:58:59 2012] [notice] Parent: Created child process 1300
+1446319	[Mon Oct 01 08:58:59 2012] [notice] Child 1300: Child process is running
+1446392	[Mon Oct 01 08:58:59 2012] [notice] Child 1300: Acquired the start mutex.
+1446466	[Mon Oct 01 08:58:59 2012] [notice] Child 1300: Starting 64 worker threads.
+1446542	[Mon Oct 01 08:58:59 2012] [notice] Child 1300: Starting thread to listen on port 80.
+1446628	[Mon Oct 01 21:04:24 2012] [error] [client 207.20.54.203] File does not exist: C:/www/manager
+1446722	[Tue Oct 02 09:08:33 2012] [error] [client 155.33.18.234] File does not exist: C:/www/favicon.ico
+1446820	[Tue Oct 02 21:49:31 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1446917	[Sat Oct 06 05:36:20 2012] [error] [client 122.224.6.43] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1447120	[Sat Oct 06 05:36:21 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpMyAdmin
+1447216	[Sat Oct 06 05:36:22 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpmyadmin
+1447312	[Sat Oct 06 05:36:22 2012] [error] [client 122.224.6.43] File does not exist: C:/www/pma
+1447401	[Sat Oct 06 05:36:23 2012] [error] [client 122.224.6.43] File does not exist: C:/www/myadmin
+1447494	[Sat Oct 06 05:36:24 2012] [error] [client 122.224.6.43] File does not exist: C:/www/MyAdmin
+1447587	[Sat Oct 06 10:04:43 2012] [error] [client 211.152.34.100] File does not exist: C:/www/user
+1447679	[Mon Oct 08 10:17:47 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1447776	[Tue Oct 09 03:41:31 2012] [error] [client 200.105.225.43] File does not exist: C:/www/user
+1447868	[Wed Oct 10 05:09:09 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1447965	[Wed Oct 10 11:19:04 2012] [error] [client 134.128.83.88] File does not exist: C:/www/manager
+1448059	[Thu Oct 11 11:01:20 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1448156	[Sat Oct 13 12:28:22 2012] [error] [client 111.9.120.15] File does not exist: C:/www/manager
+1448249	[Mon Oct 15 10:41:57 2012] [error] [client 218.108.85.252] File does not exist: C:/www/manager
+1448344	[Mon Oct 15 21:58:55 2012] [error] [client 168.62.176.62] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1448548	[Mon Oct 15 21:58:55 2012] [error] [client 168.62.176.62] File does not exist: C:/www/phpMyAdmin
+1448645	[Mon Oct 15 21:59:01 2012] [error] [client 168.62.176.62] File does not exist: C:/www/myadmin
+1448739	[Mon Oct 15 21:59:01 2012] [error] [client 168.62.176.62] File does not exist: C:/www/MyAdmin
+1448833	[Tue Oct 16 00:58:08 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1448930	[Wed Oct 17 11:55:45 2012] [error] [client 173.203.68.64] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+1449093	[Thu Oct 18 16:37:53 2012] [error] [client 92.240.68.152] File does not exist: C:/www/prensa
+1449186	[Fri Oct 19 01:51:34 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1449283	[Fri Oct 19 14:24:12 2012] [error] [client 42.121.12.184] File does not exist: C:/www/manager
+1449377	[Fri Oct 19 20:20:24 2012] [error] [client 184.106.198.42] File does not exist: C:/www/manager
+1449472	[Sat Oct 20 03:12:08 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1449569	[Sun Oct 21 06:01:01 2012] [error] [client 93.187.141.154] File does not exist: C:/www/plugins
+1449664	[Sun Oct 21 06:01:02 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer
+1449762	[Sun Oct 21 06:01:02 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.4
+1449864	[Sun Oct 21 06:01:02 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5
+1449966	[Sun Oct 21 06:01:02 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5.1
+1450070	[Sun Oct 21 06:01:03 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5.2
+1450174	[Sun Oct 21 06:01:03 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5.3
+1450278	[Sun Oct 21 06:01:03 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5.4
+1450382	[Sun Oct 21 06:01:04 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.5.5
+1450486	[Sun Oct 21 06:01:04 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.6
+1450588	[Sun Oct 21 06:01:04 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer-2.6.X
+1450692	[Sun Oct 21 06:01:05 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer24
+1450792	[Sun Oct 21 06:01:05 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer25
+1450892	[Sun Oct 21 06:01:05 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer251
+1450993	[Sun Oct 21 06:01:06 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer253
+1451094	[Sun Oct 21 06:01:06 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer255
+1451195	[Sun Oct 21 06:01:06 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer26
+1451295	[Sun Oct 21 06:01:07 2012] [error] [client 93.187.141.154] File does not exist: C:/www/AjaXplorer26X
+1451396	[Sun Oct 21 06:01:07 2012] [error] [client 93.187.141.154] File does not exist: C:/www/FILE
+1451488	[Sun Oct 21 06:01:07 2012] [error] [client 93.187.141.154] File does not exist: C:/www/Ftp
+1451579	[Sun Oct 21 06:01:08 2012] [error] [client 93.187.141.154] File does not exist: C:/www/OLD
+1451670	[Sun Oct 21 06:01:08 2012] [error] [client 93.187.141.154] File does not exist: C:/www/Repository
+1451768	[Sun Oct 21 06:01:08 2012] [error] [client 93.187.141.154] File does not exist: C:/www/Xplorer
+1451863	[Sun Oct 21 06:01:08 2012] [error] [client 93.187.141.154] File does not exist: C:/www/_viewer
+1451958	[Sun Oct 21 06:01:09 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ad12
+1452050	[Sun Oct 21 06:01:09 2012] [error] [client 93.187.141.154] File does not exist: C:/www/adel
+1452142	[Sun Oct 21 06:01:09 2012] [error] [client 93.187.141.154] File does not exist: C:/www/admin
+1452235	[Sun Oct 21 06:01:10 2012] [error] [client 93.187.141.154] File does not exist: C:/www/adminfiles
+1452333	[Sun Oct 21 06:01:10 2012] [error] [client 93.187.141.154] File does not exist: C:/www/aja
+1452424	[Sun Oct 21 06:01:10 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajaXplorer
+1452522	[Sun Oct 21 06:01:10 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajax
+1452614	[Sun Oct 21 06:01:11 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajax255
+1452709	[Sun Oct 21 06:01:11 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajaxplorer
+1452807	[Sun Oct 21 06:01:11 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajaxplorer-core-3.1.1
+1452916	[Sun Oct 21 06:01:12 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ajaxplorer_talmud
+1453021	[Sun Oct 21 06:01:12 2012] [error] [client 93.187.141.154] File does not exist: C:/www/area_aziende
+1453121	[Sun Oct 21 06:01:12 2012] [error] [client 93.187.141.154] File does not exist: C:/www/areariservata
+1453222	[Sun Oct 21 06:01:13 2012] [error] [client 93.187.141.154] File does not exist: C:/www/arquivos
+1453318	[Sun Oct 21 06:01:13 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ax
+1453408	[Sun Oct 21 06:01:13 2012] [error] [client 93.187.141.154] File does not exist: C:/www/books
+1453501	[Sun Oct 21 06:01:13 2012] [error] [client 93.187.141.154] File does not exist: C:/www/britishlanguageservices
+1453612	[Sun Oct 21 06:01:14 2012] [error] [client 93.187.141.154] File does not exist: C:/www/britishlanguageservices
+1453723	[Sun Oct 21 06:01:14 2012] [error] [client 93.187.141.154] File does not exist: C:/www/browse
+1453817	[Sun Oct 21 06:01:14 2012] [error] [client 93.187.141.154] File does not exist: C:/www/capeco
+1453911	[Sun Oct 21 06:01:15 2012] [error] [client 93.187.141.154] File does not exist: C:/www/cesar
+1454004	[Sun Oct 21 06:01:15 2012] [error] [client 93.187.141.154] File does not exist: C:/www/clientArea
+1454102	[Sun Oct 21 06:01:15 2012] [error] [client 93.187.141.154] File does not exist: C:/www/clientarea
+1454200	[Sun Oct 21 06:01:16 2012] [error] [client 93.187.141.154] File does not exist: C:/www/clientes
+1454296	[Sun Oct 21 06:01:16 2012] [error] [client 93.187.141.154] File does not exist: C:/www/clientfiles
+1454395	[Sun Oct 21 06:01:16 2012] [error] [client 93.187.141.154] File does not exist: C:/www/customers
+1454492	[Sun Oct 21 06:01:17 2012] [error] [client 93.187.141.154] File does not exist: C:/www/data
+1454584	[Sun Oct 21 06:01:17 2012] [error] [client 93.187.141.154] File does not exist: C:/www/dms2
+1454676	[Sun Oct 21 06:01:18 2012] [error] [client 93.187.141.154] File does not exist: C:/www/docs
+1454768	[Sun Oct 21 06:01:18 2012] [error] [client 93.187.141.154] File does not exist: C:/www/documentacion
+1454869	[Sun Oct 21 06:01:19 2012] [error] [client 93.187.141.154] File does not exist: C:/www/dossier
+1454964	[Sun Oct 21 06:01:19 2012] [error] [client 93.187.141.154] File does not exist: C:/www/download
+1455060	[Sun Oct 21 06:01:20 2012] [error] [client 93.187.141.154] File does not exist: C:/www/downloads
+1455157	[Sun Oct 21 06:01:20 2012] [error] [client 93.187.141.154] File does not exist: C:/www/editors
+1455252	[Sun Oct 21 06:01:20 2012] [error] [client 93.187.141.154] File does not exist: C:/www/editors
+1455347	[Sun Oct 21 06:01:21 2012] [error] [client 93.187.141.154] File does not exist: C:/www/emurb
+1455440	[Sun Oct 21 06:01:21 2012] [error] [client 93.187.141.154] File does not exist: C:/www/explorer
+1455536	[Sun Oct 21 06:01:21 2012] [error] [client 93.187.141.154] File does not exist: C:/www/file-manager
+1455636	[Sun Oct 21 06:01:22 2012] [error] [client 93.187.141.154] File does not exist: C:/www/file_server
+1455735	[Sun Oct 21 06:01:22 2012] [error] [client 93.187.141.154] File does not exist: C:/www/fileman
+1455830	[Sun Oct 21 06:01:22 2012] [error] [client 93.187.141.154] File does not exist: C:/www/filemanager
+1455929	[Sun Oct 21 06:01:23 2012] [error] [client 93.187.141.154] File does not exist: C:/www/files
+1456022	[Sun Oct 21 06:01:23 2012] [error] [client 93.187.141.154] File does not exist: C:/www/fileserver
+1456120	[Sun Oct 21 06:01:24 2012] [error] [client 93.187.141.154] File does not exist: C:/www/fileshare
+1456217	[Sun Oct 21 06:01:24 2012] [error] [client 93.187.141.154] File does not exist: C:/www/filespace
+1456314	[Sun Oct 21 06:01:24 2012] [error] [client 93.187.141.154] File does not exist: C:/www/ftp
+1456405	[Sun Oct 21 06:01:25 2012] [error] [client 93.187.141.154] File does not exist: C:/www/gestion_documentos
+1456511	[Sun Oct 21 06:01:25 2012] [error] [client 93.187.141.154] File does not exist: C:/www/intranet
+1456607	[Sun Oct 21 06:01:25 2012] [error] [client 93.187.141.154] File does not exist: C:/www/lab
+1456698	[Sun Oct 21 06:01:26 2012] [error] [client 93.187.141.154] File does not exist: C:/www/login
+1456791	[Sun Oct 21 06:01:26 2012] [error] [client 93.187.141.154] File does not exist: C:/www/manager
+1456886	[Sun Oct 21 06:01:26 2012] [error] [client 93.187.141.154] File does not exist: C:/www/neos
+1456978	[Sun Oct 21 06:01:27 2012] [error] [client 93.187.141.154] File does not exist: C:/www/newsdm
+1457072	[Sun Oct 21 06:01:27 2012] [error] [client 93.187.141.154] File does not exist: C:/www/partners
+1457168	[Sun Oct 21 06:01:27 2012] [error] [client 93.187.141.154] File does not exist: C:/www/pdf_and_image_library
+1457277	[Sun Oct 21 06:01:28 2012] [error] [client 93.187.141.154] File does not exist: C:/www/pool
+1457369	[Sun Oct 21 06:01:28 2012] [error] [client 93.187.141.154] File does not exist: C:/www/prints
+1457463	[Sun Oct 21 06:01:28 2012] [error] [client 93.187.141.154] File does not exist: C:/www/repo
+1457555	[Sun Oct 21 06:01:29 2012] [error] [client 93.187.141.154] File does not exist: C:/www/repository
+1457653	[Sun Oct 21 06:01:29 2012] [error] [client 93.187.141.154] File does not exist: C:/www/share
+1457746	[Sun Oct 21 06:01:29 2012] [error] [client 93.187.141.154] File does not exist: C:/www/test/plugins
+1457846	[Sun Oct 21 06:01:30 2012] [error] [client 93.187.141.154] File does not exist: C:/www/transfer
+1457942	[Sun Oct 21 06:01:30 2012] [error] [client 93.187.141.154] File does not exist: C:/www/upload
+1458036	[Sun Oct 21 06:01:30 2012] [error] [client 93.187.141.154] File does not exist: C:/www/uploader
+1458132	[Sun Oct 21 06:01:31 2012] [error] [client 93.187.141.154] File does not exist: C:/www/uploads
+1458227	[Sun Oct 21 06:01:31 2012] [error] [client 93.187.141.154] File does not exist: C:/www/web
+1458318	[Sun Oct 21 06:01:31 2012] [error] [client 93.187.141.154] File does not exist: C:/www/webdav
+1458412	[Sun Oct 21 06:01:32 2012] [error] [client 93.187.141.154] File does not exist: C:/www/webgui
+1458506	[Sun Oct 21 06:01:32 2012] [error] [client 93.187.141.154] File does not exist: C:/www/xpl
+1458597	[Sun Oct 21 06:01:33 2012] [error] [client 93.187.141.154] File does not exist: C:/www/xplor
+1458690	[Sun Oct 21 06:01:33 2012] [error] [client 93.187.141.154] File does not exist: C:/www/xplor24
+1458785	[Sun Oct 21 06:01:33 2012] [error] [client 93.187.141.154] File does not exist: C:/www/xplorer
+1458880	[Tue Oct 23 15:21:00 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1458977	[Fri Oct 26 02:50:13 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1459074	[Fri Oct 26 17:41:09 2012] [error] [client 118.73.5.225] File does not exist: C:/www/crossdomain.xml
+1459175	[Sun Oct 28 00:12:32 2012] [error] [client 122.70.155.109] File does not exist: C:/www/muieblackcat
+1459275	[Sun Oct 28 00:12:32 2012] [error] [client 122.70.155.109] File does not exist: C:/www/index.php
+1459372	[Sun Oct 28 00:12:33 2012] [error] [client 122.70.155.109] File does not exist: C:/www/admin
+1459465	[Sun Oct 28 00:12:34 2012] [error] [client 122.70.155.109] File does not exist: C:/www/admin
+1459558	[Sun Oct 28 00:12:34 2012] [error] [client 122.70.155.109] File does not exist: C:/www/admin
+1459651	[Sun Oct 28 00:12:35 2012] [error] [client 122.70.155.109] File does not exist: C:/www/db
+1459741	[Sun Oct 28 00:12:35 2012] [error] [client 122.70.155.109] File does not exist: C:/www/dbadmin
+1459836	[Sun Oct 28 00:12:36 2012] [error] [client 122.70.155.109] File does not exist: C:/www/myadmin
+1459931	[Sun Oct 28 00:12:36 2012] [error] [client 122.70.155.109] File does not exist: C:/www/mysql/index.php
+1460034	[Sun Oct 28 00:12:37 2012] [error] [client 122.70.155.109] File does not exist: C:/www/mysqladmin
+1460132	[Sun Oct 28 00:12:38 2012] [error] [client 122.70.155.109] File does not exist: C:/www/typo3
+1460225	[Sun Oct 28 00:12:38 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpadmin
+1460321	[Sun Oct 28 00:12:39 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin
+1460419	[Sun Oct 28 00:12:39 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpmyadmin
+1460517	[Sun Oct 28 00:12:40 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpmyadmin1
+1460616	[Sun Oct 28 00:12:40 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpmyadmin2
+1460715	[Sun Oct 28 00:12:41 2012] [error] [client 122.70.155.109] File does not exist: C:/www/pma
+1460806	[Sun Oct 28 00:12:42 2012] [error] [client 122.70.155.109] File does not exist: C:/www/web
+1460897	[Sun Oct 28 00:12:42 2012] [error] [client 122.70.155.109] File does not exist: C:/www/xampp
+1460990	[Sun Oct 28 00:12:43 2012] [error] [client 122.70.155.109] File does not exist: C:/www/web
+1461081	[Sun Oct 28 00:12:43 2012] [error] [client 122.70.155.109] File does not exist: C:/www/php-my-admin
+1461181	[Sun Oct 28 00:12:44 2012] [error] [client 122.70.155.109] File does not exist: C:/www/websql
+1461275	[Sun Oct 28 00:12:44 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpmyadmin
+1461373	[Sun Oct 28 00:12:45 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin
+1461471	[Sun Oct 28 00:12:46 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2
+1461571	[Sun Oct 28 00:12:46 2012] [error] [client 122.70.155.109] File does not exist: C:/www/php-my-admin
+1461671	[Sun Oct 28 00:12:47 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.2.3
+1461775	[Sun Oct 28 00:12:47 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.2.6
+1461879	[Sun Oct 28 00:12:48 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.1
+1461983	[Sun Oct 28 00:12:48 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.4
+1462087	[Sun Oct 28 00:12:49 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.5-rc1
+1462195	[Sun Oct 28 00:12:50 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.5-rc2
+1462303	[Sun Oct 28 00:12:50 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.5
+1462407	[Sun Oct 28 00:12:51 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.5-pl1
+1462515	[Sun Oct 28 00:12:51 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.6-rc1
+1462623	[Sun Oct 28 00:12:52 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.6-rc2
+1462731	[Sun Oct 28 00:12:52 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.6
+1462835	[Sun Oct 28 00:12:53 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.7
+1462939	[Sun Oct 28 00:12:54 2012] [error] [client 122.70.155.109] File does not exist: C:/www/phpMyAdmin-2.5.7-pl1
+1463047	[Sun Oct 28 23:33:59 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1463144	[Mon Oct 29 04:52:06 2012] [error] [client 113.140.75.222] File does not exist: C:/www/phpMyAdmin
+1463242	[Mon Oct 29 04:52:07 2012] [error] [client 113.140.75.222] File does not exist: C:/www/phpmyadmin
+1463340	[Mon Oct 29 04:52:08 2012] [error] [client 113.140.75.222] File does not exist: C:/www/pma
+1463431	[Mon Oct 29 04:52:08 2012] [error] [client 113.140.75.222] File does not exist: C:/www/myadmin
+1463526	[Mon Oct 29 04:52:09 2012] [error] [client 113.140.75.222] File does not exist: C:/www/MyAdmin
+1463621	[Thu Nov 01 06:50:30 2012] [error] [client 122.224.6.43] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1463824	[Thu Nov 01 06:50:30 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpMyAdmin
+1463920	[Thu Nov 01 06:50:31 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpmyadmin
+1464016	[Thu Nov 01 06:50:31 2012] [error] [client 122.224.6.43] File does not exist: C:/www/pma
+1464105	[Thu Nov 01 06:50:32 2012] [error] [client 122.224.6.43] File does not exist: C:/www/myadmin
+1464198	[Thu Nov 01 06:50:32 2012] [error] [client 122.224.6.43] File does not exist: C:/www/MyAdmin
+1464291	[Thu Nov 01 15:31:57 2012] [error] [client 129.10.225.112] File does not exist: C:/www/favicon.ico
+1464390	[Thu Nov 01 15:34:45 2012] [error] [client 129.10.64.142] File does not exist: C:/www/favicon.ico
+1464488	[Thu Nov 01 22:41:04 2012] [error] [client 91.205.189.15] File does not exist: C:/www/user
+1464579	[Sun Nov 04 04:46:26 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1464676	[Sun Nov 04 19:35:45 2012] [error] [client 92.240.68.153] File does not exist: C:/www/2011
+1464767	[Mon Nov 05 11:53:45 2012] [error] [client 120.197.11.232] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1464972	[Mon Nov 05 11:53:46 2012] [error] [client 120.197.11.232] File does not exist: C:/www/phpMyAdmin
+1465070	[Mon Nov 05 11:53:46 2012] [error] [client 120.197.11.232] File does not exist: C:/www/phpmyadmin
+1465168	[Mon Nov 05 11:53:47 2012] [error] [client 120.197.11.232] File does not exist: C:/www/pma
+1465259	[Mon Nov 05 11:53:47 2012] [error] [client 120.197.11.232] File does not exist: C:/www/myadmin
+1465354	[Mon Nov 05 11:53:48 2012] [error] [client 120.197.11.232] File does not exist: C:/www/MyAdmin
+1465449	[Wed Nov 07 12:59:18 2012] [error] [client 129.10.72.110] File does not exist: C:/www/favicon.ico
+1465547	[Wed Nov 07 20:08:23 2012] [error] [client 67.205.96.91] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+1465709	[Fri Nov 09 15:26:49 2012] [error] [client 122.224.6.43] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+1465912	[Fri Nov 09 15:26:50 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpMyAdmin
+1466008	[Fri Nov 09 15:26:50 2012] [error] [client 122.224.6.43] File does not exist: C:/www/phpmyadmin
+1466104	[Fri Nov 09 15:26:51 2012] [error] [client 122.224.6.43] File does not exist: C:/www/pma
+1466193	[Fri Nov 09 15:26:51 2012] [error] [client 122.224.6.43] File does not exist: C:/www/myadmin
+1466286	[Fri Nov 09 15:26:52 2012] [error] [client 122.224.6.43] File does not exist: C:/www/MyAdmin
+1466379	[Fri Nov 09 17:45:46 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1466478	[Fri Nov 09 17:45:49 2012] [error] [client 129.10.38.100] File does not exist: C:/www/favicon.ico
+1466576	[Fri Nov 09 17:45:49 2012] [error] [client 129.10.38.100] File does not exist: C:/www/favicon.ico
+1466674	[Fri Nov 09 17:45:51 2012] [error] [client 129.10.182.182] File does not exist: C:/www/favicon.ico
+1466773	[Fri Nov 09 17:45:51 2012] [error] [client 129.10.212.81] File does not exist: C:/www/favicon.ico
+1466871	[Fri Nov 09 17:45:57 2012] [error] [client 129.10.235.202] File does not exist: C:/www/favicon.ico, referer: http://newton.neu.edu/
+1467003	[Fri Nov 09 17:46:00 2012] [error] [client 129.10.182.182] File does not exist: C:/www/favicon.ico
+1467102	[Fri Nov 09 17:46:02 2012] [error] [client 129.10.182.182] File does not exist: C:/www/favicon.ico
+1467201	[Fri Nov 09 17:46:03 2012] [error] [client 129.10.182.182] File does not exist: C:/www/favicon.ico
+1467300	[Fri Nov 09 17:46:04 2012] [error] [client 129.10.210.136] File does not exist: C:/www/favicon.ico
+1467399	[Fri Nov 09 17:46:04 2012] [error] [client 129.10.193.90] File does not exist: C:/www/favicon.ico
+1467497	[Fri Nov 09 17:46:06 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1467596	[Fri Nov 09 17:46:07 2012] [error] [client 129.10.210.136] File does not exist: C:/www/favicon.ico
+1467695	[Fri Nov 09 17:46:09 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1467794	[Fri Nov 09 17:46:10 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1467893	[Fri Nov 09 17:46:17 2012] [error] [client 129.10.193.90] File does not exist: C:/www/favicon.ico
+1467991	[Fri Nov 09 17:46:17 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1468090	[Fri Nov 09 17:46:21 2012] [error] [client 129.10.219.137] File does not exist: C:/www/favicon.ico
+1468189	[Fri Nov 09 17:46:21 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1468288	[Fri Nov 09 17:46:21 2012] [error] [client 129.10.193.90] File does not exist: C:/www/favicon.ico
+1468386	[Fri Nov 09 17:46:22 2012] [error] [client 129.10.211.214] File does not exist: C:/www/favicon.ico
+1468485	[Fri Nov 09 17:46:24 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1468583	[Fri Nov 09 17:46:24 2012] [error] [client 129.10.219.137] File does not exist: C:/www/favicon.ico
+1468682	[Fri Nov 09 17:46:27 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1468780	[Fri Nov 09 17:46:27 2012] [error] [client 129.10.217.160] File does not exist: C:/www/favicon.ico
+1468879	[Fri Nov 09 17:46:29 2012] [error] [client 129.10.193.90] File does not exist: C:/www/favicon.ico
+1468977	[Fri Nov 09 17:46:30 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1469075	[Fri Nov 09 17:46:30 2012] [error] [client 129.10.225.31] File does not exist: C:/www/crossdomain.xml, referer: http://newton.neu.edu/dbms/
+1469215	[Fri Nov 09 17:46:31 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1469313	[Fri Nov 09 17:46:31 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1469411	[Fri Nov 09 17:46:31 2012] [error] [client 129.10.217.160] File does not exist: C:/www/favicon.ico
+1469510	[Fri Nov 09 17:46:31 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1469608	[Fri Nov 09 17:46:33 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1469706	[Fri Nov 09 17:46:33 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1469804	[Fri Nov 09 17:46:34 2012] [error] [client 129.10.212.81] File does not exist: C:/www/favicon.ico
+1469902	[Fri Nov 09 17:46:34 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1470001	[Fri Nov 09 17:46:37 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1470099	[Fri Nov 09 17:46:38 2012] [error] [client 129.10.219.137] File does not exist: C:/www/favicon.ico
+1470198	[Fri Nov 09 17:46:39 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1470296	[Fri Nov 09 17:46:40 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1470394	[Fri Nov 09 17:46:40 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1470492	[Fri Nov 09 17:46:41 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1470590	[Fri Nov 09 17:46:44 2012] [error] [client 129.10.217.160] File does not exist: C:/www/favicon.ico
+1470689	[Fri Nov 09 17:46:46 2012] [error] [client 129.10.217.160] File does not exist: C:/www/favicon.ico
+1470788	[Fri Nov 09 17:46:49 2012] [error] [client 129.10.217.160] File does not exist: C:/www/favicon.ico
+1470887	[Fri Nov 09 17:47:05 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1470985	[Fri Nov 09 17:47:15 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1471083	[Fri Nov 09 17:47:16 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1471181	[Fri Nov 09 17:47:17 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1471279	[Fri Nov 09 17:47:28 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1471377	[Fri Nov 09 17:47:28 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1471475	[Fri Nov 09 17:47:33 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1471574	[Fri Nov 09 17:47:33 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1471673	[Fri Nov 09 17:47:34 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1471772	[Fri Nov 09 17:47:35 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1471871	[Fri Nov 09 17:48:35 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1471970	[Fri Nov 09 17:48:36 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1472069	[Fri Nov 09 17:48:47 2012] [error] [client 129.10.198.69] File does not exist: C:/www/favicon.ico
+1472167	[Fri Nov 09 17:48:49 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1472265	[Fri Nov 09 17:48:57 2012] [error] [client 129.10.211.214] File does not exist: C:/www/favicon.ico
+1472364	[Fri Nov 09 17:49:01 2012] [error] [client 129.10.211.214] File does not exist: C:/www/favicon.ico
+1472463	[Fri Nov 09 17:49:02 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1472561	[Fri Nov 09 17:49:02 2012] [error] [client 129.10.211.214] File does not exist: C:/www/favicon.ico
+1472660	[Fri Nov 09 17:49:03 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1472759	[Fri Nov 09 17:49:04 2012] [error] [client 129.10.210.57] File does not exist: C:/www/favicon.ico
+1472857	[Fri Nov 09 17:49:05 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1472956	[Fri Nov 09 17:49:07 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473055	[Fri Nov 09 17:49:08 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473154	[Fri Nov 09 17:49:11 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473253	[Fri Nov 09 17:49:17 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473352	[Fri Nov 09 17:49:22 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473451	[Fri Nov 09 17:49:23 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1473550	[Fri Nov 09 17:49:26 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1473648	[Fri Nov 09 17:49:26 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1473746	[Fri Nov 09 17:49:26 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1473844	[Fri Nov 09 17:49:26 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1473942	[Fri Nov 09 17:49:28 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1474040	[Fri Nov 09 17:49:28 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1474138	[Fri Nov 09 17:49:29 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1474236	[Fri Nov 09 17:49:30 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1474334	[Fri Nov 09 17:49:30 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1474433	[Fri Nov 09 17:49:31 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1474532	[Fri Nov 09 17:49:32 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1474631	[Fri Nov 09 17:49:33 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1474730	[Fri Nov 09 17:50:35 2012] [error] [client 129.10.226.48] File does not exist: C:/www/favicon.ico
+1474828	[Fri Nov 09 17:50:38 2012] [error] [client 129.10.226.48] File does not exist: C:/www/favicon.ico
+1474926	[Fri Nov 09 17:50:42 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1475025	[Fri Nov 09 17:50:44 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1475124	[Fri Nov 09 17:50:45 2012] [error] [client 129.10.182.139] File does not exist: C:/www/favicon.ico
+1475223	[Fri Nov 09 17:51:16 2012] [error] [client 129.10.176.202] File does not exist: C:/www/favicon.ico, referer: http://newton.neu.edu/dbms/
+1475360	[Fri Nov 09 17:51:29 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1475459	[Fri Nov 09 17:51:36 2012] [error] [client 129.10.226.48] File does not exist: C:/www/favicon.ico
+1475557	[Fri Nov 09 17:54:08 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1475656	[Fri Nov 09 17:58:43 2012] [error] [client 129.10.219.137] File does not exist: C:/www/favicon.ico
+1475755	[Fri Nov 09 18:05:16 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1475853	[Fri Nov 09 18:05:17 2012] [error] [client 129.10.225.31] File does not exist: C:/www/favicon.ico
+1475951	[Fri Nov 09 18:52:58 2012] [error] [client 129.10.211.111] File does not exist: C:/www/favicon.ico
+1476050	[Fri Nov 09 20:22:45 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1476149	[Fri Nov 09 20:22:47 2012] [error] [client 129.10.221.217] File does not exist: C:/www/favicon.ico
+1476248	[Sat Nov 10 18:07:41 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1476345	[Mon Nov 12 00:01:56 2012] [error] [client 203.238.95.133] File does not exist: C:/www/manager
+1476440	[Mon Nov 12 01:09:17 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1476537	[Mon Nov 12 16:04:58 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1476636	[Mon Nov 12 16:05:01 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1476735	[Mon Nov 12 16:05:26 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1476834	[Mon Nov 12 16:05:27 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1476933	[Mon Nov 12 16:05:28 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1477032	[Mon Nov 12 16:05:29 2012] [error] [client 129.10.217.253] File does not exist: C:/www/favicon.ico
+1477131	[Tue Nov 13 07:32:18 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1477228	[Tue Nov 13 17:31:01 2012] [error] [client 129.10.65.240] File does not exist: C:/www/favicon.ico
+1477326	[Tue Nov 13 17:31:01 2012] [error] [client 129.10.65.240] File does not exist: C:/www/favicon.ico
+1477424	[Wed Nov 14 08:31:26 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1477521	[Fri Nov 16 05:44:57 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1477618	[Sat Nov 17 06:43:53 2012] [error] [client 100.43.83.155] File does not exist: C:/www/robots.txt
+1477715	[Sat Nov 17 16:21:56 2012] [error] [client 188.143.122.191] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+1477880	[Mon Nov 19 06:15:33 2012] [error] [client 93.174.93.52] File does not exist: C:/www/headers.php
+1477977	[Mon Nov 19 17:14:41 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpmyadmin
+1478076	[Mon Nov 19 17:14:41 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin
+1478175	[Mon Nov 19 17:14:41 2012] [error] [client 188.143.122.191] File does not exist: C:/www/db
+1478266	[Mon Nov 19 17:14:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/web
+1478358	[Mon Nov 19 17:14:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/PMA
+1478450	[Mon Nov 19 17:14:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1478544	[Mon Nov 19 17:14:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/dbadmin
+1478640	[Mon Nov 19 17:14:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/PMA2006
+1478736	[Mon Nov 19 17:14:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/pma2006
+1478832	[Mon Nov 19 17:14:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sqlmanager
+1478931	[Mon Nov 19 17:14:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysqlmanager
+1479032	[Mon Nov 19 17:14:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/p
+1479122	[Mon Nov 19 17:14:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/PMA2005
+1479218	[Mon Nov 19 17:14:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/pma2005
+1479314	[Mon Nov 19 17:14:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpmanager
+1479413	[Mon Nov 19 17:14:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/php-myadmin
+1479513	[Mon Nov 19 17:14:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpmy-admin
+1479613	[Mon Nov 19 17:14:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/main.php
+1479716	[Mon Nov 19 17:14:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/myadmin
+1479812	[Mon Nov 19 17:14:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/webadmin
+1479909	[Mon Nov 19 17:14:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sqlweb
+1480004	[Mon Nov 19 17:14:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/websql
+1480099	[Mon Nov 19 17:14:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/webdb
+1480193	[Mon Nov 19 17:14:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysqladmin
+1480292	[Mon Nov 19 17:14:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql-admin
+1480392	[Mon Nov 19 17:14:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpmyadmin2
+1480492	[Mon Nov 19 17:14:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin2
+1480592	[Mon Nov 19 17:14:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2
+1480693	[Mon Nov 19 17:14:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/php-my-admin
+1480794	[Mon Nov 19 17:14:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.2.3
+1480899	[Mon Nov 19 17:14:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.2.6
+1481004	[Mon Nov 19 17:14:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.1
+1481109	[Mon Nov 19 17:14:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.4
+1481214	[Mon Nov 19 17:14:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.5-rc1
+1481323	[Mon Nov 19 17:14:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.5-rc2
+1481432	[Mon Nov 19 17:14:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.5
+1481537	[Mon Nov 19 17:14:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.5-pl1
+1481646	[Mon Nov 19 17:14:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.6-rc1
+1481755	[Mon Nov 19 17:14:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.6-rc2
+1481864	[Mon Nov 19 17:14:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.6
+1481969	[Mon Nov 19 17:14:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.7
+1482074	[Mon Nov 19 17:14:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.5.7-pl1
+1482183	[Mon Nov 19 17:14:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-alpha
+1482294	[Mon Nov 19 17:14:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-alpha2
+1482406	[Mon Nov 19 17:14:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-beta1
+1482517	[Mon Nov 19 17:14:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-beta2
+1482628	[Mon Nov 19 17:14:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-rc1
+1482737	[Mon Nov 19 17:14:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-rc2
+1482846	[Mon Nov 19 17:14:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-rc3
+1482955	[Mon Nov 19 17:14:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0
+1483060	[Mon Nov 19 17:14:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-pl1
+1483169	[Mon Nov 19 17:14:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-pl2
+1483278	[Mon Nov 19 17:14:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.0-pl3
+1483387	[Mon Nov 19 17:14:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1-rc1
+1483496	[Mon Nov 19 17:14:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1-rc2
+1483605	[Mon Nov 19 17:14:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1
+1483710	[Mon Nov 19 17:14:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1-pl1
+1483819	[Mon Nov 19 17:14:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1-pl2
+1483928	[Mon Nov 19 17:14:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.1-pl3
+1484037	[Mon Nov 19 17:14:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.2-rc1
+1484146	[Mon Nov 19 17:14:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.2-beta1
+1484257	[Mon Nov 19 17:14:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.2-rc1
+1484366	[Mon Nov 19 17:14:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.2
+1484471	[Mon Nov 19 17:14:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.2-pl1
+1484580	[Mon Nov 19 17:14:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.3
+1484685	[Mon Nov 19 17:14:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.3-rc1
+1484794	[Mon Nov 19 17:14:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.3
+1484899	[Mon Nov 19 17:14:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.3-pl1
+1485008	[Mon Nov 19 17:14:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4-rc1
+1485117	[Mon Nov 19 17:14:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4-pl1
+1485226	[Mon Nov 19 17:14:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4-pl2
+1485335	[Mon Nov 19 17:14:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4-pl3
+1485444	[Mon Nov 19 17:14:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4-pl4
+1485553	[Mon Nov 19 17:14:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.6.4
+1485658	[Mon Nov 19 17:14:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.7.0-beta1
+1485769	[Mon Nov 19 17:14:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.7.0-rc1
+1485878	[Mon Nov 19 17:14:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.7.0-pl1
+1485987	[Mon Nov 19 17:14:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.7.0-pl2
+1486096	[Mon Nov 19 17:14:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.7.0
+1486201	[Mon Nov 19 17:14:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0-beta1
+1486312	[Mon Nov 19 17:15:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0-rc1
+1486421	[Mon Nov 19 17:15:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0-rc2
+1486530	[Mon Nov 19 17:15:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0
+1486635	[Mon Nov 19 17:15:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0.1
+1486742	[Mon Nov 19 17:15:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0.2
+1486849	[Mon Nov 19 17:15:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0.3
+1486956	[Mon Nov 19 17:15:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.0.4
+1487063	[Mon Nov 19 17:15:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.1-rc1
+1487172	[Mon Nov 19 17:15:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.1
+1487277	[Mon Nov 19 17:15:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/phpMyAdmin-2.8.2
+1487382	[Mon Nov 19 17:15:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487476	[Mon Nov 19 17:15:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487570	[Mon Nov 19 17:15:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487664	[Mon Nov 19 17:15:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487758	[Mon Nov 19 17:15:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487852	[Mon Nov 19 17:15:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1487946	[Mon Nov 19 17:15:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488040	[Mon Nov 19 17:15:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488134	[Mon Nov 19 17:15:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488228	[Mon Nov 19 17:15:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488322	[Mon Nov 19 17:15:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488416	[Mon Nov 19 17:15:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488510	[Mon Nov 19 17:15:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488604	[Mon Nov 19 17:15:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488698	[Mon Nov 19 17:15:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488792	[Mon Nov 19 17:15:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488886	[Mon Nov 19 17:15:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1488980	[Mon Nov 19 17:15:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489074	[Mon Nov 19 17:15:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489168	[Mon Nov 19 17:15:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489262	[Mon Nov 19 17:15:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489356	[Mon Nov 19 17:15:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489450	[Mon Nov 19 17:15:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489544	[Mon Nov 19 17:15:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489638	[Mon Nov 19 17:15:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489732	[Mon Nov 19 17:15:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489826	[Mon Nov 19 17:15:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1489920	[Mon Nov 19 17:15:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490014	[Mon Nov 19 17:15:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490108	[Mon Nov 19 17:15:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490202	[Mon Nov 19 17:15:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490296	[Mon Nov 19 17:15:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490390	[Mon Nov 19 17:15:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490484	[Mon Nov 19 17:15:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490578	[Mon Nov 19 17:15:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490672	[Mon Nov 19 17:15:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490766	[Mon Nov 19 17:15:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490860	[Mon Nov 19 17:15:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1490954	[Mon Nov 19 17:15:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491048	[Mon Nov 19 17:15:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491142	[Mon Nov 19 17:15:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491236	[Mon Nov 19 17:15:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491330	[Mon Nov 19 17:15:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491424	[Mon Nov 19 17:15:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491518	[Mon Nov 19 17:15:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491612	[Mon Nov 19 17:15:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491706	[Mon Nov 19 17:15:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491800	[Mon Nov 19 17:15:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491894	[Mon Nov 19 17:15:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1491988	[Mon Nov 19 17:15:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492082	[Mon Nov 19 17:15:14 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492176	[Mon Nov 19 17:15:14 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492270	[Mon Nov 19 17:15:14 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492364	[Mon Nov 19 17:15:14 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492458	[Mon Nov 19 17:15:15 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492552	[Mon Nov 19 17:15:15 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492646	[Mon Nov 19 17:15:15 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492740	[Mon Nov 19 17:15:15 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492834	[Mon Nov 19 17:15:16 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1492928	[Mon Nov 19 17:15:16 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493022	[Mon Nov 19 17:15:16 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493116	[Mon Nov 19 17:15:16 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493210	[Mon Nov 19 17:15:16 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493304	[Mon Nov 19 17:15:17 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493398	[Mon Nov 19 17:15:17 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493492	[Mon Nov 19 17:15:17 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493586	[Mon Nov 19 17:15:17 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493680	[Mon Nov 19 17:15:18 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493774	[Mon Nov 19 17:15:18 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493868	[Mon Nov 19 17:15:18 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1493962	[Mon Nov 19 17:15:18 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494056	[Mon Nov 19 17:15:19 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494150	[Mon Nov 19 17:15:19 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494244	[Mon Nov 19 17:15:19 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494338	[Mon Nov 19 17:15:19 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494432	[Mon Nov 19 17:15:19 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494526	[Mon Nov 19 17:15:20 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494620	[Mon Nov 19 17:15:20 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494714	[Mon Nov 19 17:15:20 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494808	[Mon Nov 19 17:15:20 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494902	[Mon Nov 19 17:15:21 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1494996	[Mon Nov 19 17:15:21 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495090	[Mon Nov 19 17:15:21 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495184	[Mon Nov 19 17:15:21 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495278	[Mon Nov 19 17:15:22 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495372	[Mon Nov 19 17:15:22 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495466	[Mon Nov 19 17:15:22 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495560	[Mon Nov 19 17:15:22 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495654	[Mon Nov 19 17:15:23 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495748	[Mon Nov 19 17:15:23 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495842	[Mon Nov 19 17:15:23 2012] [error] [client 188.143.122.191] File does not exist: C:/www/admin
+1495936	[Mon Nov 19 17:15:23 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpmyadmin
+1496041	[Mon Nov 19 17:15:23 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin
+1496146	[Mon Nov 19 17:15:24 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/db
+1496243	[Mon Nov 19 17:15:24 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/web
+1496341	[Mon Nov 19 17:15:24 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/pMA
+1496439	[Mon Nov 19 17:15:24 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/admin
+1496539	[Mon Nov 19 17:15:28 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/main.php
+1496642	[Mon Nov 19 17:15:28 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/dbadmin
+1496744	[Mon Nov 19 17:15:31 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/pMA2006
+1496846	[Mon Nov 19 17:15:31 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/pma2006
+1496948	[Mon Nov 19 17:15:32 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/sqlmanager
+1497053	[Mon Nov 19 17:15:32 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/mysqlmanager
+1497160	[Mon Nov 19 17:15:32 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/p
+1497256	[Mon Nov 19 17:15:32 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/pMA2005
+1497358	[Mon Nov 19 17:15:32 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/pma2005
+1497460	[Mon Nov 19 17:15:33 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpmanager
+1497565	[Mon Nov 19 17:15:33 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/php-myadmin
+1497671	[Mon Nov 19 17:15:33 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpmy-admin
+1497777	[Mon Nov 19 17:15:33 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/mysql
+1497877	[Mon Nov 19 17:15:34 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/myadmin
+1497979	[Mon Nov 19 17:15:34 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/webadmin
+1498082	[Mon Nov 19 17:15:34 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/sqlweb
+1498183	[Mon Nov 19 17:15:34 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/websql
+1498284	[Mon Nov 19 17:15:35 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/webdb
+1498384	[Mon Nov 19 17:15:35 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/mysqladmin
+1498489	[Mon Nov 19 17:15:35 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/mysql-admin
+1498595	[Mon Nov 19 17:15:35 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpmyadmin2
+1498701	[Mon Nov 19 17:15:36 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin2
+1498807	[Mon Nov 19 17:15:36 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2
+1498914	[Mon Nov 19 17:15:36 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/php-my-admin
+1499021	[Mon Nov 19 17:15:36 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.2.3
+1499132	[Mon Nov 19 17:15:36 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.2.6
+1499243	[Mon Nov 19 17:15:37 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.1
+1499354	[Mon Nov 19 17:15:37 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.4
+1499465	[Mon Nov 19 17:15:37 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.5-rc1
+1499580	[Mon Nov 19 17:15:37 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.5-rc2
+1499695	[Mon Nov 19 17:15:38 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.5
+1499806	[Mon Nov 19 17:15:38 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.5-pl1
+1499921	[Mon Nov 19 17:15:38 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.6-rc1
+1500036	[Mon Nov 19 17:15:41 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.6-rc2
+1500151	[Mon Nov 19 17:15:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.6
+1500262	[Mon Nov 19 17:15:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.7
+1500373	[Mon Nov 19 17:15:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.5.7-pl1
+1500488	[Mon Nov 19 17:15:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-alpha
+1500605	[Mon Nov 19 17:15:42 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-alpha2
+1500723	[Mon Nov 19 17:15:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-beta1
+1500840	[Mon Nov 19 17:15:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-beta2
+1500957	[Mon Nov 19 17:15:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-rc1
+1501072	[Mon Nov 19 17:15:43 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-rc2
+1501187	[Mon Nov 19 17:15:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-rc3
+1501302	[Mon Nov 19 17:15:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0
+1501413	[Mon Nov 19 17:15:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-pl1
+1501528	[Mon Nov 19 17:15:44 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-pl2
+1501643	[Mon Nov 19 17:15:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.0-pl3
+1501758	[Mon Nov 19 17:15:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1-rc1
+1501873	[Mon Nov 19 17:15:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1-rc2
+1501988	[Mon Nov 19 17:15:45 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1
+1502099	[Mon Nov 19 17:15:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1-pl1
+1502214	[Mon Nov 19 17:15:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1-pl2
+1502329	[Mon Nov 19 17:15:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.1-pl3
+1502444	[Mon Nov 19 17:15:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.2-rc1
+1502559	[Mon Nov 19 17:15:46 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.2-beta1
+1502676	[Mon Nov 19 17:15:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.2-rc1
+1502791	[Mon Nov 19 17:15:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.2
+1502902	[Mon Nov 19 17:15:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.2-pl1
+1503017	[Mon Nov 19 17:15:47 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.3
+1503128	[Mon Nov 19 17:15:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.3-rc1
+1503243	[Mon Nov 19 17:15:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.3
+1503354	[Mon Nov 19 17:15:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.3-pl1
+1503469	[Mon Nov 19 17:15:48 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4-rc1
+1503584	[Mon Nov 19 17:15:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4-pl1
+1503699	[Mon Nov 19 17:15:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4-pl2
+1503814	[Mon Nov 19 17:15:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4-pl3
+1503929	[Mon Nov 19 17:15:49 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4-pl4
+1504044	[Mon Nov 19 17:15:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.6.4
+1504155	[Mon Nov 19 17:15:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.7.0-beta1
+1504272	[Mon Nov 19 17:15:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.7.0-rc1
+1504387	[Mon Nov 19 17:15:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.7.0-pl1
+1504502	[Mon Nov 19 17:15:50 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.7.0-pl2
+1504617	[Mon Nov 19 17:15:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.7.0
+1504728	[Mon Nov 19 17:15:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0-beta1
+1504845	[Mon Nov 19 17:15:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0-rc1
+1504960	[Mon Nov 19 17:15:51 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0-rc2
+1505075	[Mon Nov 19 17:15:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0
+1505186	[Mon Nov 19 17:15:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0.1
+1505299	[Mon Nov 19 17:15:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0.2
+1505412	[Mon Nov 19 17:15:52 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0.3
+1505525	[Mon Nov 19 17:15:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.0.4
+1505638	[Mon Nov 19 17:15:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.1-rc1
+1505753	[Mon Nov 19 17:15:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.1
+1505864	[Mon Nov 19 17:15:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/mysql/phpMyAdmin-2.8.2
+1505975	[Mon Nov 19 17:15:53 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506067	[Mon Nov 19 17:15:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506159	[Mon Nov 19 17:15:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506251	[Mon Nov 19 17:15:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506343	[Mon Nov 19 17:15:54 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506435	[Mon Nov 19 17:15:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506527	[Mon Nov 19 17:15:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506619	[Mon Nov 19 17:15:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506711	[Mon Nov 19 17:15:55 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506803	[Mon Nov 19 17:15:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506895	[Mon Nov 19 17:15:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1506987	[Mon Nov 19 17:15:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507079	[Mon Nov 19 17:15:56 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507171	[Mon Nov 19 17:15:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507263	[Mon Nov 19 17:15:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507355	[Mon Nov 19 17:15:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507447	[Mon Nov 19 17:15:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507539	[Mon Nov 19 17:15:57 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507631	[Mon Nov 19 17:15:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507723	[Mon Nov 19 17:15:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507815	[Mon Nov 19 17:15:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507907	[Mon Nov 19 17:15:58 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1507999	[Mon Nov 19 17:15:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508091	[Mon Nov 19 17:15:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508183	[Mon Nov 19 17:15:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508275	[Mon Nov 19 17:15:59 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508367	[Mon Nov 19 17:16:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508459	[Mon Nov 19 17:16:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508551	[Mon Nov 19 17:16:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508643	[Mon Nov 19 17:16:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508735	[Mon Nov 19 17:16:00 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508827	[Mon Nov 19 17:16:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1508919	[Mon Nov 19 17:16:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509011	[Mon Nov 19 17:16:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509103	[Mon Nov 19 17:16:01 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509195	[Mon Nov 19 17:16:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509287	[Mon Nov 19 17:16:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509379	[Mon Nov 19 17:16:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509471	[Mon Nov 19 17:16:02 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509563	[Mon Nov 19 17:16:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509655	[Mon Nov 19 17:16:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509747	[Mon Nov 19 17:16:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509839	[Mon Nov 19 17:16:03 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1509931	[Mon Nov 19 17:16:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510023	[Mon Nov 19 17:16:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510115	[Mon Nov 19 17:16:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510207	[Mon Nov 19 17:16:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510299	[Mon Nov 19 17:16:04 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510391	[Mon Nov 19 17:16:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510483	[Mon Nov 19 17:16:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510575	[Mon Nov 19 17:16:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510667	[Mon Nov 19 17:16:05 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510759	[Mon Nov 19 17:16:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510851	[Mon Nov 19 17:16:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1510943	[Mon Nov 19 17:16:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511035	[Mon Nov 19 17:16:06 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511127	[Mon Nov 19 17:16:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511219	[Mon Nov 19 17:16:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511311	[Mon Nov 19 17:16:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511403	[Mon Nov 19 17:16:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511495	[Mon Nov 19 17:16:07 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511587	[Mon Nov 19 17:16:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511679	[Mon Nov 19 17:16:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511771	[Mon Nov 19 17:16:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511863	[Mon Nov 19 17:16:08 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1511955	[Mon Nov 19 17:16:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512047	[Mon Nov 19 17:16:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512139	[Mon Nov 19 17:16:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512231	[Mon Nov 19 17:16:09 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512323	[Mon Nov 19 17:16:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512415	[Mon Nov 19 17:16:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512507	[Mon Nov 19 17:16:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512599	[Mon Nov 19 17:16:10 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512691	[Mon Nov 19 17:16:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512783	[Mon Nov 19 17:16:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512875	[Mon Nov 19 17:16:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1512967	[Mon Nov 19 17:16:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513059	[Mon Nov 19 17:16:11 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513151	[Mon Nov 19 17:16:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513243	[Mon Nov 19 17:16:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513335	[Mon Nov 19 17:16:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513427	[Mon Nov 19 17:16:12 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513519	[Mon Nov 19 17:16:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513611	[Mon Nov 19 17:16:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513703	[Mon Nov 19 17:16:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
+1513795	[Mon Nov 19 17:16:13 2012] [error] [client 188.143.122.191] File does not exist: C:/www/sql
