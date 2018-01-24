@@ -1,0 +1,8 @@
+hw2/part5/topMovies/avgMapper.class
+hw2/part5/topMovies/avgReducer.class
+hw2/part5/topMovies/sortMapper.class
+hw2/part5/topMovies/CompositeKeyWritable.class
+hw2/part5/topMovies/SecondarySortCompKeySortComparator.class
+hw2/part5/topMovies/DriverSort.class
+hw2/part5/topMovies/DriverAvg.class
+hw2/part5/topMovies/sortReducer.class
